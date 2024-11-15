@@ -1,0 +1,12 @@
+/* Establecer el color de fondo de la página */
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: hsl(196, 26%, 83%);  /* Aquí puedes cambiar el color de fondo */
+}
+
+
+
+
+
+
